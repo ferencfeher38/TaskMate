@@ -1,2 +1,3 @@
 # TaskMate (React practice)
-![image](https://user-images.githubusercontent.com/71189300/236263822-4f7d9941-65b9-46a3-bc8d-a24293d3e5cd.png)
+![image](https://user-images.githubusercontent.com/71189300/236447861-078216a7-236c-4a2e-9725-e273d705ed9d.png)
+
